@@ -66,7 +66,9 @@ img {
     padding: 15px;
     font-size: 16px;
     border: none;
-    width: 15rem;
+    width: 10rem;
+    position: relative;
+    left: 9rem;
   }
   
   .dropdown {
@@ -77,6 +79,7 @@ img {
   .dropdown-content {
     display: none;
     position: absolute;
+    left: 9rem;
     background-image: url();
     background-size: cover;
     min-width: 860px;
