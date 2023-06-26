@@ -1,0 +1,62 @@
+body {
+    background-color: #FEDA3A;
+    background-image: url(Minimalistic\ Goku\ Riding\ Nimbus\ Cloud\ In\ The\ Sunset\ _\ Anime\ Shelter\ Shop.jpg);
+    background-size: cover;
+    margin: auto;
+    max-width: 65%;
+    padding: 50px;
+    padding-left: 0;
+    padding-right: 0;
+
+
+}
+
+li {
+    display: inline-block;
+    padding: 1rem;
+}
+
+body {
+    text-align: center
+}
+
+img {
+    display: inline;
+
+}
+
+#mainlogo {
+    position: relative;
+    right: 3rem;
+}
+
+#akirapicture {
+    position: relative;
+    right: 5%;
+    margin: 0;
+    padding: 0;
+    right: 2rem;
+}
+
+#akiratext {
+    display: inline-block;
+    position: relative;
+    bottom: 3rem;
+
+}
+
+#description {
+    display: inline-block;
+    position: relative;
+    bottom: 15rem;
+    left: 5rem;
+}
+
+#logo {
+    position: relative;
+    right: 10rem;
+}
+
+#toyiramades {
+    text-align: left;
+}
